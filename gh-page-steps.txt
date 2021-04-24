@@ -1,0 +1,11 @@
+step1: npm install gh-pages --save-dev
+step2: package.json file
+	2.1: "homepage": "http://mrudulas.github.io/redux-app" 
+	2.2: "predeploy": "npm run build",
+  	     "deploy": "gh-pages -d build"
+step3: git init
+step4: git remote add origin https://github.com/mrudulas/redux-app.git
+stpe5: npm run deploy
+step6: git add .
+step7: git commit -m "intial commit and deploy in gh-page"
+step8: git push origin master
