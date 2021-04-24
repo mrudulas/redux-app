@@ -1,2 +1,0 @@
-(this["webpackJsonpredux-app"]=this["webpackJsonpredux-app"]||[]).push([[0],{13:function(e,t,n){"use strict";n.r(t);var r=n(0),c=n.n(r),a=n(3),u=n(4),p=n(5),i=n(7),s=n(6),b=n(1),j=function(e){Object(i.a)(n,e);var t=Object(s.a)(n);function n(){return Object(u.a)(this,n),t.apply(this,arguments)}return Object(p.a)(n,[{key:"render",value:function(){return Object(b.jsx)("div",{children:"Hello, Redux"})}}]),n}(c.a.Component);Object(a.render)(Object(b.jsx)(j,{}))}},[[13,1,2]]]);
-//# sourceMappingURL=main.80eb903d.chunk.js.map
